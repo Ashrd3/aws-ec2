@@ -39,9 +39,9 @@ Configure Security Group
 
 Allow HTTP (port 80) traffic from your IP or temporarily 0.0.0.0/0 for testing.
 
-View Your Webpage
+View Webpage
 
-Navigate to your EC2 public IP in a browser to see the live page.
+Navigate to EC2 public IP in a browser to see the live page.
 
 Notes
 
