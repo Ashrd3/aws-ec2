@@ -43,8 +43,6 @@ View Webpage
 
 Navigate to EC2 public IP in a browser to see the live page.
 
-Notes:
-
-This is a learning project intended to practice AWS cloud and web hosting fundamentals.
+Notes: This is a learning project intended to practice AWS cloud and web hosting fundamentals.
 
 Next steps: Add S3 storage, Secure with IAM, Monitor & clean up
