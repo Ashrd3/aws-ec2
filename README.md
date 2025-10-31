@@ -14,7 +14,7 @@ Next steps: connect and configure, Add S3 storage, Secure with IAM, Monitor & cl
 This project demonstrates deploying a simple static HTML webpage on an **AWS EC2 instance**, covering the essentials of cloud server setup, SSH access, and web hosting.
 
 ### Live Demo Screenshot
-![Live Webpage] <img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/d70e0567-d8af-4e62-812e-881638f2a790" />
+<img width="1366" height="720" alt="image" src="https://github.com/user-attachments/assets/d70e0567-d8af-4e62-812e-881638f2a790" />
 
 ### Key Steps
 
