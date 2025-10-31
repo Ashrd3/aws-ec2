@@ -47,8 +47,4 @@ Notes
 
 This is a learning project intended to practice AWS cloud and web hosting fundamentals.
 
-For security, restrict Security Group access to known IPs after testing.
-
-Expand by adding more HTML/CSS pages or experimenting with multiple web services.
-
 Next steps: Add S3 storage, Secure with IAM, Monitor & clean up
