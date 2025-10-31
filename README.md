@@ -43,7 +43,7 @@ View Webpage
 
 Navigate to EC2 public IP in a browser to see the live page.
 
-Notes
+Notes:
 
 This is a learning project intended to practice AWS cloud and web hosting fundamentals.
 
